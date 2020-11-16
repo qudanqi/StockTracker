@@ -10,10 +10,10 @@ Unit 8: Group Milestone - README Example
 
 ## Overview
 ### Description
-An app the will send push notifications when a requested stock reaches a desired price.
+An app the will show the custumized contents of the interested stocks and push notifications to buy or sell based on some investment strategies.
 
 ### App Evaluation
-- **Category:** Finannce
+- **Category:** Tech Finannce
 - **Mobile:** It would allow the user to be updated by stock prices without the hassle of getting on their phone
 - **Story:** Send notification when price is reached
 - **Market:** Any individual could choose to use this app, they would create an account in order to trach which companies they want
